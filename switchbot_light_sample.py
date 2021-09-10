@@ -23,13 +23,13 @@ up_body = {
 }
 
 off_body = {
-   "command" : "TurnOff",
+   "command" : "turnOff",
    "parameter" : "default",
    "comandType": "command"
 }
 
 on_body = {
-   "command" : "TurnOn",
+   "command" : "turnOn",
    "parameter" : "default",
    "comandType": "command"
 }
